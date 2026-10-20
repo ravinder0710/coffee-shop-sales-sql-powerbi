@@ -80,14 +80,14 @@ Based on rigorous SQL modeling across 14 candidate cities evaluating population 
 
 ```mermaid
 flowchart TD
-    A[14 Candidate Indian Metro Cities] --> B[Data Integration & Demographics]
-    B --> C{Strategic Evaluation Criteria}
-    C -->|Rent Efficiency| D[Pune: Low Rent ₹15.3K / High Revenue]
-    C -->|Scale & Demand| E[Delhi: 7.7M Target Consumers / 68 Customers]
-    C -->|Unit Economics| F[Jaipur: 69 Customers / Ultra-low Rent ₹156 per buyer]
-    D --> G[Priority 1: Launch Pune Store]
-    E --> H[Priority 2: Launch Delhi Store]
-    F --> I[Priority 3: Launch Jaipur Store]
+    A["14 Candidate Indian Metro Cities"] --> B["Data Integration & Demographics"]
+    B --> C{"Strategic Evaluation Criteria"}
+    C -->|"Rent Efficiency"| D["Pune: Low Rent ₹15.3K / High Revenue"]
+    C -->|"Scale & Demand"| E["Delhi: 7.7M Target Consumers / 68 Customers"]
+    C -->|"Unit Economics"| F["Jaipur: 69 Customers / Low Rent ₹156 per buyer"]
+    D --> G["Priority 1: Launch Pune Store"]
+    E --> H["Priority 2: Launch Delhi Store"]
+    F --> I["Priority 3: Launch Jaipur Store"]
 ```
 
 ### 🏆 Recommendation Matrix
