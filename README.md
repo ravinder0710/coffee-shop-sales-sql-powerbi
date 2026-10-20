@@ -300,9 +300,8 @@ coffee-shop-sales-sql-powerbi/
 *Data Analyst | SQL · Power BI · DAX · Excel · Python*
 
 * 📧 **Email**: [iamravindergupta17@gmail.com](mailto:iamravindergupta17@gmail.com)
-* 💬 **WhatsApp**: [+91 9982637026](https://wa.me/919982637026?text=Hi%20Ravinder,%20saw%20your%20Coffee%20Shop%20Sales%20Project)
 * 💼 **GitHub**: [github.com/ravinder0710](https://github.com/ravinder0710)
-* 📍 **Location**: Alwar, Rajasthan, India
+* 📍 **Location**: Gurugram (Delhi-NCR), India
 
 ---
 *Created with passion for clean code, actionable business insights, and executive-ready data visualization.*
