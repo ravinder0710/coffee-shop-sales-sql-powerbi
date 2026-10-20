@@ -305,3 +305,34 @@ coffee-shop-sales-sql-powerbi/
 
 ---
 *Created with passion for clean code, actionable business insights, and executive-ready data visualization.*
+
+
+---
+
+## 📂 Repository Structure
+```text
+coffee-shop-sales-sql-powerbi/
+│
+├── COFFEE_SHOP_SALES_PROJECT.pbix                                    # Master Power BI Interactive Dashboard
+├── Monday_Coffee_SQL_Data_Analysis_Project.sql                       # 10 Production SQL Expansion & Optimization Queries
+│
+├── data/                                                             # Relational POS transaction datasets
+│   ├── city.csv                                                      # 14 Indian Metro Markets demographic & coffee stats
+│   ├── customers.csv                                                 # Customer registrations & loyalty profiles
+│   ├── products.csv                                                  # SKU catalog, categories, and unit price
+│   └── sales.csv                                                     # 149,116 Granular point-of-sale transactions
+│
+├── assets/                                                           # Visual assets & recommendations
+│   ├── coffee_shop_sales_dashboard.png                               # View 1: Executive POS Sales Performance Dashboard
+│   ├── coffee_shop_tooltip_calendar.png                              # View 2: Daily Sales Heatmap Tooltip
+│   ├── coffee_shop_tooltip_day_hour.png                              # View 3: Peak Rush Hourly Footfall Tooltip
+│   ├── expansion_objectives.png                                      # Strategic Business Expansion Blueprint
+│   ├── expansion_recommendations.png                                 # Multi-City Ranking & Market Recommendation
+│   ├── monday_coffee_banner.png                                      # Repository Header Banner
+│   └── Solutions_reference.sql                                       # Alternative query benchmark references
+│
+├── data_architecture_pipeline.png                                    # Multi-City Analytics & SQL Processing Pipeline
+├── requirements.txt                                                  # Environment prerequisites
+├── .gitignore                                                        # Ignores temp files, Power BI temp caches
+└── README.md                                                         # Master technical report & business expansion roadmap
+```
